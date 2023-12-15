@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressControlApp", "ProgressControlApp.csproj", "{9A855C37-0AD0-4800-BD1D-1941F9DAFDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{ABC1411E-D414-40C0-AA1E-55F2126ACC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A855C37-0AD0-4800-BD1D-1941F9DAFDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A855C37-0AD0-4800-BD1D-1941F9DAFDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A855C37-0AD0-4800-BD1D-1941F9DAFDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A855C37-0AD0-4800-BD1D-1941F9DAFDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC1411E-D414-40C0-AA1E-55F2126ACC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC1411E-D414-40C0-AA1E-55F2126ACC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC1411E-D414-40C0-AA1E-55F2126ACC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC1411E-D414-40C0-AA1E-55F2126ACC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9406E983-4D2E-4853-A7A2-F2AC85796B3E}
+	EndGlobalSection
+EndGlobal
